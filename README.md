@@ -13,20 +13,7 @@
 <h1 align="center">👋 Hi, I'm Predeep Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com
-  ?font=Inter
-  &weight=600
-  &size=24
-  &duration=2800
-  &pause=800
-  &color=7F5AF0
-  &center=true
-  &vCenter=true
-  &width=900
-  &lines=🤖+AI+%26+Machine+Learning+Engineer;
-           🧠+Deep+Learning+%7C+Computer+Vision+%7C+MLOps;
-           📊+End-to-End+ML+Systems+%7C+Production-Ready+AI;
-           🚀+From+Data+to+Deployment+to+Impact">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=24&duration=2800&pause=800&color=7F5AF0&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+MLOps;End-to-End+ML+Systems+%7C+Production-Ready+AI;From+Data+to+Deployment+to+Impact" />
 </p>
 
 <p align="center">
