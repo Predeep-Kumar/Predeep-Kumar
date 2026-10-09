@@ -13,7 +13,7 @@
 <h1 align="center">👋 Hi, I'm Predeep Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=24&duration=2800&pause=800&color=7F5AF0&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+MLOps;End-to-End+ML+Systems+%7C+Production-Ready+AI;From+Data+to+Deployment+to+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=24&duration=2800&pause=800&color=7F5AF0&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+AI%2FML+Engineer;AI+%26+Machine+Learning+Engineer;Claude+Code+%7C+Frontend+%26+Backend+Development;Deep+Learning+%7C+Computer+Vision+%7C+MLOps" />
 </p>
 
 <p align="center">
@@ -35,17 +35,19 @@
 
 ## 🧠 About Me
 
-I am an **AI & Machine Learning Engineer** with strong hands-on experience in building  
-**real-world, production-ready ML and deep learning systems**.
+I am an **AI/ML Engineer and Software Developer** interested in building  
+**machine learning systems, LLM-powered applications, and practical software tools**.
 
 🔍 I work across the **complete ML lifecycle**:
 - Data preprocessing & feature engineering  
 - Model training, evaluation & optimization  
 - Deep learning & computer vision pipelines  
-- Experiment tracking and reproducibility  
-- Deployment-ready AI systems  
+- Experiment tracking, reproducibility, and deployment  
+- Dashboards, REST APIs, and AI-powered applications  
 
-💡 I enjoy solving **real-world ML challenges** like noisy data, class imbalance, limited datasets, and performance bottlenecks.
+💻 I use **Claude Code** to build frontend interfaces, develop backend functionality, and work on API integration. My backend development skills are at a **beginner-to-intermediate level**, and I am a quick learner who values problem-solving, adaptability, teamwork, and delivering work on time.
+
+💡 I enjoy solving **real-world technical challenges**, including noisy data, class imbalance, limited datasets, and application development problems.
 
 <hr/>
 
@@ -58,6 +60,14 @@ I am an **AI & Machine Learning Engineer** with strong hands-on experience in bu
 ### 💻 Programming Languages
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
 
+### 🗄️ Databases & SQL
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
 ### 📊 Data Science & ML
 <p> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/EDA-4CAF50?style=for-the-badge"/> <img src="https://img.shields.io/badge/Feature%20Engineering-673AB7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Model%20Evaluation-009688?style=for-the-badge"/> </p> 
 
@@ -67,8 +77,35 @@ I am an **AI & Machine Learning Engineer** with strong hands-on experience in bu
 ### ⚙️ MLOps & Deployment
 <p> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/Model%20Deployment-2E7D32?style=for-the-badge"/> <img src="https://img.shields.io/badge/Experiment%20Tracking-6A1B9A?style=for-the-badge"/> </p> 
 
+### 🌐 Frontend & Backend Development
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-0066CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-242938?style=for-the-badge"/>
+</p>
+
+### 🤖 LLMs & Generative AI
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-673AB7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-5E35B1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Chatbots-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20Databases-455A64?style=for-the-badge"/>
+</p>
+
+### 🐳 Deployment & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+</p>
+
 ### 🧰 Tools & Platforms
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/> <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-FF5C00?style=for-the-badge"/> </p> 
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/> <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-FF5C00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Claude%20Code-242938?style=for-the-badge"/> <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20APIs-0066CC?style=for-the-badge"/> </p> 
 
 ### 🛍️ E-commerce (Secondary)
 <p> <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/> <img src="https://img.shields.io/badge/Liquid-00BFA5?style=for-the-badge"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/SEO-4CAF50?style=for-the-badge"/> <img src="https://img.shields.io/badge/CRO-FF9800?style=for-the-badge"/> <img src="https://img.shields.io/badge/Responsive%20UI-9E9E9E?style=for-the-badge"/> </p>
